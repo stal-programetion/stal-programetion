@@ -37,9 +37,9 @@ Estudiante de **noveno semestre de Ingeniería de Sistemas** en la **Universidad
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| **Sistema para barbería** | Registro de ventas y control del negocio. | [completar] |
-| **Sistema para local de tecnología** | Gestión de ventas y manejo de datos. | [completar] |
-| **Portafolio web para diseñadora gráfica** | Sitio de portafolio profesional hecho a la medida. | [completar] |
+| **Sistema para barbería** | Registro de ventas y control del negocio. | Flask y react |
+| **Sistema para local de tecnología** | Gestión de ventas y manejo de datos. | Flask |
+| **Portafolio web para diseñadora gráfica** | Sitio de portafolio profesional hecho a la medida. | Next y react |
 
 > Algunos proyectos son de uso privado para negocios reales. Si quieres ver una demostración, escríbeme.
 
